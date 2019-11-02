@@ -1,0 +1,1 @@
+export default () => <div>Rename this to index.js and see that it's the error page now</div>
